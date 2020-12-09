@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="conversation_start_verified_color_m2">@*android:color/material_grey_50</color>
+    <color name="informational_dialog_positive_button_text_color">@*android:color/material_grey_50</color>
+    <color name="google_blue300">@*android:color/material_grey_50</color>
+    <color name="google_blue400">@*android:color/material_grey_50</color>
+    <color name="google_blue500">@*android:color/material_grey_50</color>
+    <color name="google_blue600">@*android:color/material_grey_50</color>
+    <color name="google_blue700">@*android:color/material_grey_50</color>
+    <color name="google_blue800">@*android:color/material_grey_50</color>
+    <color name="primary_color">@*android:color/material_grey_50</color>
+    <color name="message_bubble_color_outgoing_rcs_m2">@*android:color/material_grey_50</color>
+    <color name="message_bubble_color_outgoing_xms_m2">@*android:color/material_grey_50</color>
+    <color name="message_bubble_color_incoming_selected_m2">@*android:color/material_grey_50</color>
+    <color name="message_bubble_color_outgoing_rcs_selected_m2">@android:color/black</color>
+    <color name="message_bubble_color_outgoing_xms_selected_m2">@android:color/black</color>
+    <color name="message_text_color_outgoing_rcs_m2">@android:color/white</color>
+    <color name="message_text_color_outgoing_xms_m2">@android:color/white</color>
+    <color name="message_text_color_outgoing_xms_selected_m2">@android:color/white</color>
+    <color name="message_bubble_color_incoming_dark_m2">@*android:color/background_leanback_dark</color>
+    <color name="message_bubble_color_outgoing_rcs_dark_m2">@*android:color/material_grey_50</color>
+    <color name="message_bubble_color_outgoing_xms_dark_m2">@*android:color/material_grey_50</color>
+    <color name="message_bubble_color_incoming_selected_dark_m2">@*android:color/material_grey_50</color>
+    <color name="message_bubble_color_outgoing_rcs_selected_dark_m2">@android:color/white</color>
+    <color name="message_bubble_color_outgoing_xms_selected_dark_m2">@android:color/white</color>
+    <color name="google_grey700">@*android:color/background_leanback_dark</color>
+    <color name="google_grey800">@*android:color/background_leanback_dark</color>
+    <color name="google_grey900">@*android:color/primary_text_dark_disable_only</color>
+    <color name="sticker_icon_background_color_dark_mode">@*android:color/background_leanback_dark</color>
+    <color name="message_text_color_outgoing_rcs_dark_m2">@*android:color/primary_text_dark_disable_only</color>
+    <color name="message_text_color_outgoing_xms_dark_m2">@*android:color/primary_text_dark_disable_only</color>
+    <color name="message_text_color_outgoing_xms_selected_dark_m2">@*android:color/primary_text_dark_disable_only</color>
+    <color name="background_material_dark">@*android:color/primary_text_dark_disable_only</color>
+</resources>
