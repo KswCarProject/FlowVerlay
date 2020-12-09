@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="projekt.auto.mbux.overlay"
+    package="projekt.auto.launcher.overlay.mbux_gaet"
     android:versionCode="1"
     android:versionName="1.0">
 
+    <uses-permission android:name="projekt.auto.launcher.OVERLAY_COMPONENT" />
+
     <overlay
         android:priority="1"
-        android:targetName="projekt.auto.launcher"
-        android:targetPackage="projekt.auto.launcher" />
+        android:targetName="projekt.auto"
+        android:targetPackage="projekt.auto" />
 
     <application
         android:allowBackup="false"
         android:hasCode="false"
-        android:label="flowUX synesthesia Overlay">
+        android:label="flowUX synesthesia - MBUX overlay by @Gaet">
 
         <meta-data
             android:name="overlay_creator"
