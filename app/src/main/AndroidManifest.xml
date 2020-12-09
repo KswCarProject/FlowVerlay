@@ -14,18 +14,6 @@
     <application
         android:allowBackup="false"
         android:hasCode="false"
-        android:label="flowUX synesthesia - MBUX overlay by @Gaet">
-
-        <meta-data
-            android:name="overlay_creator"
-            android:value="Gaet" />
-        <meta-data
-            android:name="overlay_title"
-            android:value="flowUX synesthesia - MBUX overlay" />
-        <meta-data
-            android:name="overlay_description"
-            android:value="An MBUX designed overlay for the flowUX launcher" />
-
-    </application>
+        android:label="flowUX synesthesia - MBUX overlay by @Gaet" />
 
 </manifest>
